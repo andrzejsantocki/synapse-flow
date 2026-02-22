@@ -4,7 +4,7 @@ Synapse Flow is a high-performance personal activity tracker designed for lifelo
 
 
 <p align="center">
-  <img src="assets/dash" alt="Synapse Flow Dashboard" width="800">
+  <img src="assets/dash.png" alt="Synapse Flow Dashboard" width="800">
 </p>
 
 
